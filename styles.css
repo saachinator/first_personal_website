@@ -1,0 +1,60 @@
+
+/*--------------------------------LINKS--------------------------------*/
+a:link, a:visited {
+    color: gray;
+    text-decoration: none;
+}
+
+a:hover, a:active {
+    color: gray;
+    text-decoration: none;
+}
+
+h1 {
+    color: black;
+    font-family: 'Raleway', sans-serif;
+}
+
+h2 {
+    color: black;
+    font-family: 'Raleway', sans-serif;
+}
+
+h4 {
+    color: black;
+    font-family: 'Raleway', sans-serif;
+}
+
+hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 5em;
+    margin-right: 5em;
+    border-style: inset;
+    border-width: 1px;
+}
+
+row {
+    width: 75%;
+}
+
+img {
+    max-width: 80%;
+    height: auto;
+}
+
+body {
+    background-color: white; 
+}
+#footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+p {
+    color: black;
+    font-family: 'Raleway', sans-serif;
+}
+
